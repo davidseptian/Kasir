@@ -1,0 +1,340 @@
+#body {
+		border: 3px solid #77c9d4;
+		margin: 0;
+		height: 734px;
+		width: 100%;
+	}
+	
+	#upbody {
+		margin: -727px 1px 0 1px;
+		height: 734px;
+		position: relative;
+		background-color: transparent;
+	}
+	
+	#navbar {
+		
+		border: 1px solid #D0D0D0;
+		margin: 0px 0px -10px 0px;
+		height: 50px;
+		background: linear-gradient(#77c9d4, #5bee73); /* Standard syntax */
+		background: -webkit-linear-gradient(#77c9d4, #5bee73); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(#77c9d4, #5bee73); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(#77c9d4, #5bee73); /* For Firefox 3.6 to 15 */
+		
+	}
+	
+	#nav-top {
+		background-color : #5bee73;
+		height : 22px;
+		width: 100%;
+		margin: 0;
+		border-bottom: 1px solid #fcdd07;
+		position: sticky;
+		top: 0px;
+	}
+	
+	#navbar2 {
+		border-radius: 9%;
+		height : 45px;
+		width: 250px;
+		background-color: #4497d2;
+		border: 1px solid #fcdd07;
+		margin: -23px 0px 0px 565px;
+		text-align: center;
+		color: #ccc;
+		position: sticky;
+		top: 0px;
+	}
+	
+	#content {
+		
+		height : 335px;
+		border: 0px solid #cccccc;
+		margin: 0px 0 0px 0;
+		background-image : transparent;
+	}
+	
+	#sabuk {
+		height: 30px;
+		border: 1px solid #bbb;
+		margin: 1px 0 10px 0;
+		background: linear-gradient(#77c9d4, #ccc); /* Standard syntax */
+		background: -webkit-linear-gradient(#77c9d4, #ccc); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(#77c9d4, #ccc); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(#77c9d4, #ccc); /* For Firefox 3.6 to 15 */
+		
+	}
+	
+	#point {
+		height: 100px;
+		border: 1px solid #D0D0D0;
+		margin: 0;
+		background-color: #999;
+	}
+	
+	#down {
+		height: 250px;
+		border: 0px solid #D0D0D0;
+		margin: 0 0 5px 0;
+		background-color: transparent;
+	}
+	
+	.down-1 {
+		height: 53px;
+		width: 441px;
+		margin: -357px 0 0 -1px;
+		border: 0px solid #0000ff;
+		background-color: #5bee73;
+		border-radius: 15%;
+	}
+	
+	.down-2 {
+		height: 250px;
+		width: 5px;
+		background-color: #5bee73;
+		margin: 0 1px 0 10px;
+	}
+	
+	.down-3 {
+		height: 53px;
+		width: 371px;
+		margin: -218px 0 0 -1px;
+		border: 0px solid #0000ff;
+		background-color: #5bee73;
+		border-radius: 15%;
+	}
+	
+	.down-4 {
+		height: 250px;
+		width: 5px;
+		background-color: #5bee73;
+		margin: 0 1px 0 -55px;
+	}
+	
+	.card-1 {
+		height: 240px;
+		width: 440px;
+		margin: 5px 10px 5px 20px;
+		border: 0px solid #eee;
+		background-color: transparent;
+		border-radius: 5%;
+	}
+	
+	.card-2 {
+		height: 277px;
+		width: 395px;
+		margin: -10px 10px 5px 5px;
+		border: 2px solid #000;
+		background-color: transparent;
+		border-radius: 0%;
+	}
+	
+	h4.card-1 {
+		height: 50px;
+		margin: 10px 5px 0 0px;
+		background-color: transparent;
+		border: 0px solid #00ff00;
+		text-align: center;
+	}
+	
+	h4.card-2 {
+		height: 50px;
+		margin: 10px 5px 0 -10px;
+		background-color: transparent;
+		border: 0px solid #00ff00;
+		text-align: center;
+	}
+	
+	p.card-1 {
+		width: 410px;
+		font-size: 15px;
+		background-color: transparent;
+		border: 0px solid #ff0000;
+		margin: 10px 0 0 20px;
+		color: #000;
+	}
+	
+	p.card-2 {
+		height: 30px;
+		width: 360px;
+		margin: -27px 0 15px 80px;
+		border: 0px solid #eee;
+		background-color: transparent;
+		font-weight: none;
+	}
+	
+	a.nav2{
+		font-family: Courier;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	.nav2:hover{
+		-webkit-transform: scale(1.15);
+		-moz-transform: scale(1.15);
+		-ms-transform: scale(1.15);
+		-o-transform: scale(1.15);
+		transform: scale(1.15);
+		filter: blue(opacity=20); /* internet explorer */
+		-khtml-opacity: 0.7;      /* khtml, old safari */
+		-moz-opacity: 0.7;       /* mozilla, netscape */
+		opacity: 0.7; 
+	}
+	
+	p.nav2 {
+		margin-top: 8px;
+		color: #ffff12;	
+	}
+	
+	.c-1 {
+		height: 175px;
+		width: 175px;
+		border: 2px solid #a0a0a0;
+		margin: 0 0 0 170px;
+		border-radius: 10px;
+	}
+	
+	.c-2 {
+		height: 175px;
+		width: 175px;
+		border: 2px solid #a0a0a0;
+		margin: -174px 0 0 460px;
+		border-radius: 10px;
+	}
+	.c-3 {
+		height: 175px;
+		width: 175px;
+		border: 2px solid #a0a0a0;
+		margin: -174px 0 0 738px;
+		border-radius: 10px;
+	}
+	.c-4 {
+		height: 175px;
+		width: 175px;
+		border: 2px solid #a0a0a0;
+		margin: -175px 0 0 1028px;
+		border-radius: 10px;
+	}
+	
+	.gbr-kontak {
+		width: 30px;
+		height: 30px;
+		margin: 5px 0 0 40px;
+	}
+	
+	.gambar{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	position: relative;
+	filter: alpha(opacity=50); /* internet explorer */
+	-khtml-opacity: 0.7;      /* khtml, old safari */
+	-moz-opacity: 0.7;       /* mozilla, netscape */
+	opacity: 0.7; 
+	}
+	
+	.cover{
+	width: 140px;
+	height: 140px;
+	margin: 16px 0 0 16px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-ms-transition: all 0.5s;
+	transition: all 0.5s;
+	}
+	.cover:hover{
+	-webkit-transform: scale(1.15);
+	-moz-transform: scale(1.15);
+	-ms-transform: scale(1.15);
+	-o-transform: scale(1.15);
+	transform: scale(1.15);
+	filter: alpha(opacity=50); /* internet explorer */
+	-khtml-opacity: 0.5;      /* khtml, old safari */
+	-moz-opacity: 0.5;       /* mozilla, netscape */
+	opacity: 0.5; 
+}
+	
+	.nav-search {
+		margin : 0 10px 0 800px;	
+	}
+	
+	.navbar1 {
+		border: 1px solid #D0D0D0;
+		margin: 0px 0px -10px 0px;
+		background-color: #ffc107;
+		height: 70px;
+	}
+	
+	a.nav-a{
+		font-family: Cooper Black;
+		color: #176f9f;
+		font-size: 20px;
+		background-color: transparent;
+		text-align: center;
+		margin: 15px 0 -10px 645px;
+	
+	}
+	
+	.sabuk-name {
+		margin: 0 600px 0 600px;
+	}
+	
+	
+	
+	.p-1 {
+		height : 30px;
+		width: 170px;
+		margin: 25px 20px 25px 2px;
+		background-color: #0395c4;
+		border-radius: 9%;
+	}
+	
+	.p-1:hover {
+		filter: alpha(opacity=50); /* internet explorer */
+		-khtml-opacity: 0.5;      /* khtml, old safari */
+		-moz-opacity: 0.5;       /* mozilla, netscape */
+		opacity: 0.5; 
+	}
+	
+	p.p-1 {
+		color: #ffff12;
+		font-size: 15px;
+		margin: -5px 100px 10px -5px;
+		text-align: center;
+	}
+	
+	h1.nav-h1 {
+		color: #fff;
+		background-color: transparent;
+		border: 1px solid #D0D0D0;
+		font-size: 19px;
+		font-weight: normal;
+		margin: 6px 1000px 8px 0;
+		padding: 14px 15px 0 15px;
+	}
+
+	code {
+		font-family: Consolas, Monaco, Courier New, Courier, monospace;
+		font-size: 12px;
+		background-color: #f9f9f9;
+		border: 1px solid #D0D0D0;
+		color: #002166;
+		display: block;
+		margin: 14px 0 14px 0;
+		padding: 12px 10px 12px 10px;
+	}
+
+	
+	p.footer {
+		color : #fff;
+		text-align: center;
+		font-size: 15px;
+		margin: 13px 0 0 0;
+	}
+
+	#container {
+		margin: 10px;
+		border: 1px solid #D0D0D0;
+		box-shadow: 0 0 8px #D0D0D0;
+	}

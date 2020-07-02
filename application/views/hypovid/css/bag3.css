@@ -1,0 +1,165 @@
+#body {
+		border: 3px solid #77c9d4;
+		margin: 0;
+		height: 734px;
+		width: 100%;
+	}
+	
+	#upbody {
+		margin: -727px 1px 0 1px;
+		height: 734px;
+		position: relative;
+		background-color: transparent;
+	}
+	
+	#navbar {
+		
+		border: 1px solid #D0D0D0;
+		margin: 0px 0px -10px 0px;
+		height: 50px;
+		background: linear-gradient(#77c9d4, #5bee73); /* Standard syntax */
+		background: -webkit-linear-gradient(#77c9d4, #5bee73); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(#77c9d4, #5bee73); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(#77c9d4, #5bee73); /* For Firefox 3.6 to 15 */
+		
+	}
+	
+	#nav-top {
+		background-color : #5bee73;
+		height : 22px;
+		width: 100%;
+		margin: 0;
+		border-bottom: 1px solid #fcdd07;
+		position: sticky;
+		top: 0px;
+	}
+	
+	#navbar2 {
+		border-radius: 9%;
+		height : 45px;
+		width: 250px;
+		background-color: #4497d2;
+		border: 1px solid #fcdd07;
+		margin: -23px 0px 0px 565px;
+		text-align: center;
+		color: #ccc;
+		position: sticky;
+		top: 0px;
+	}
+	
+	#footer {
+		width: 100%;
+		height: 50px;
+		margin: 11px 0 0 0;
+		background: linear-gradient(#5bee73, #77c9d4); /* Standard syntax */
+		background: -webkit-linear-gradient(#5bee73, #77c9d4); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(#5bee73, #77c9d4); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(#5bee73, #77c9d4); /* For Firefox 3.6 to 15 */
+	}
+	
+	#content-up {
+		width: 1321px;
+		height: 43px;
+		border-bottom: 3px solid #5bee73;
+		margin: -10px 10px 0 10px;
+	}
+	
+	#content-add {
+		width: 1281px;
+		height: 43px;
+		border-bottom: 1px solid #ccc;
+		margin: 20px 10px 0 30px;
+	}
+
+	
+	
+	
+	
+	.content-table {
+		width: 1281px;
+		height: 460px;
+		border: 1px solid #ddd;
+		margin: 10px 20px 0 20px;
+	}
+	
+	a.nav2{
+		font-family: Courier;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	.nav2:hover{
+		-webkit-transform: scale(1.15);
+		-moz-transform: scale(1.15);
+		-ms-transform: scale(1.15);
+		-o-transform: scale(1.15);
+		transform: scale(1.15);
+		filter: blue(opacity=20); /* internet explorer */
+		-khtml-opacity: 0.7;      /* khtml, old safari */
+		-moz-opacity: 0.7;       /* mozilla, netscape */
+		opacity: 0.7; 
+	}
+	
+	p.nav2 {
+		margin-top: 8px;
+		color: #ffff12;	
+	}
+	
+	.gambar{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	position: relative;
+	filter: alpha(opacity=50); /* internet explorer */
+	-khtml-opacity: 0.7;      /* khtml, old safari */
+	-moz-opacity: 0.7;       /* mozilla, netscape */
+	opacity: 0.7; 
+	}
+	
+	a.nav-a{
+		font-family: Cooper Black;
+		color: #176f9f;
+		font-size: 20px;
+		background-color: transparent;
+		text-align: center;
+		margin: 15px 0 -10px 645px;
+	
+	}
+	
+	h3.texth3 {
+		margin: 10px 0 -10px 20px;
+		color: #999;
+	
+	}
+	
+	.btn-1 {
+		border: 0px solid #000;
+		margin: 0 800px 0 20px;
+	}
+	
+	.btn {
+		border: 0px solid #000;
+		margin: -5px 20px 5px 0;
+	}
+	
+	.home {
+		height: 40px;
+		width: 40px;
+		border-radius: 10%;
+		background-color: #007849;
+		position: fixed;
+		right: 15px;
+		bottom: 10px;
+	}
+	
+	.gbr-home{
+		height: 30px;
+		width: 30px;
+		margin: 5px;
+	}
+	
+	.gbr-back1{
+		height: 30px;
+		width: 30px;
+		margin: -35px 0 0px 15px;
+	}
+	
